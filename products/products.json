@@ -1,5 +1,14 @@
 {
   "schema_version": 1,
-  "status": "setup-only",
-  "products": []
+  "status": "ready",
+  "products": [
+    {
+      "product_id": "7455919074",
+      "item_id": "24108242235",
+      "vendor_item_id": "85984112985",
+      "code": "CP-7455919074-24108242235-85984112985",
+      "name": "베베숲 오리진 유아물티슈 캡형, 50g, 100매, 10개",
+      "affiliate_url": "https://link.coupang.com/re/AFFSDPWW?lptag=AF0973222&subid=&subparam=&pageKey=7455919074&itemId=24108242235&vendorItemId=85984112985&traceid=V0-501-31420e7ffc684935-I1037990&impressionid=20261016080556578308123292&pageid=&tsource=&pt=0&slot=5"
+    }
+  ]
 }
