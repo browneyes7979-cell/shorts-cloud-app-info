@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "code": "CP-7455919074-24108242235-85984112985",
+      "number": 1,
+      "photo_path": "images/0bd99bbb00c7cb4ea1db872e8b68f680b6e9616a7b07fd344f4496cc320667ea.png",
+      "photo_sha256": "0bd99bbb00c7cb4ea1db872e8b68f680b6e9616a7b07fd344f4496cc320667ea"
+    },
+    {
+      "code": "CP-261192458-816702952-5077941266",
+      "number": 2,
+      "photo_path": "images/da883e1d42718d8761f8b7e893faac7cdcda30771cb4f77da2dfc41e0c81cfea.jpg",
+      "photo_sha256": "da883e1d42718d8761f8b7e893faac7cdcda30771cb4f77da2dfc41e0c81cfea"
+    },
+    {
+      "code": "CP-7751139469-19469131918-80228918932",
+      "number": 3,
+      "photo_path": "images/58d13e846f57e130d36eacb5428f3bb8ddcdb105673f469d40b7e28c37afcef4.jpg",
+      "photo_sha256": "58d13e846f57e130d36eacb5428f3bb8ddcdb105673f469d40b7e28c37afcef4"
+    },
+    {
+      "code": "CP-188227098-537550763-4403776090",
+      "number": 4,
+      "photo_path": "images/af420de64b44f5465dbc74f46e606ea35cc6b4fcbd253789aa9349f96ea8a51a.jpg",
+      "photo_sha256": "af420de64b44f5465dbc74f46e606ea35cc6b4fcbd253789aa9349f96ea8a51a"
+    },
+    {
+      "code": "CP-6224605496-12196225924-85326747347",
+      "number": 5,
+      "photo_path": "images/8a6b503e00c1f99dee3a1f076a0743fe21cbc4f3ce1d73e49b12418e1adba758.jpg",
+      "photo_sha256": "8a6b503e00c1f99dee3a1f076a0743fe21cbc4f3ce1d73e49b12418e1adba758"
+    }
+  ]
+}
