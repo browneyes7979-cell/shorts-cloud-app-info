@@ -48,6 +48,12 @@
       "number": 8,
       "photo_path": "images/5eede4ee77eb993a35ba32f0d01cda351bb11ea27890946a201a3a60d5c7ee82.png",
       "photo_sha256": "5eede4ee77eb993a35ba32f0d01cda351bb11ea27890946a201a3a60d5c7ee82"
+    },
+    {
+      "code": "CP-2888447-21424150700-3001053937",
+      "number": 9,
+      "photo_path": "images/c1e60615ccba2b412b275987669e961db6d8265f27fc1ee599e5ec257fe029bd.jpg",
+      "photo_sha256": "c1e60615ccba2b412b275987669e961db6d8265f27fc1ee599e5ec257fe029bd"
     }
   ]
 }
