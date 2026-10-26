@@ -72,6 +72,12 @@
       "number": 12,
       "photo_path": "images/9b74616534a55a21fff1dc13cdfd0f6faac911c1200a8da1aa324f6c5bb5b3d8.jpg",
       "photo_sha256": "9b74616534a55a21fff1dc13cdfd0f6faac911c1200a8da1aa324f6c5bb5b3d8"
+    },
+    {
+      "code": "CP-6417202386-13788880930-81039306234",
+      "number": 13,
+      "photo_path": "images/fab908aa5b60957ad45d253be3a9e404a8085b2748321cf8855cfff8d5215d00.jpg",
+      "photo_sha256": "fab908aa5b60957ad45d253be3a9e404a8085b2748321cf8855cfff8d5215d00"
     }
   ]
 }
